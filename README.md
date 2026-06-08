@@ -7,7 +7,7 @@ A 4-agent system that rescues corrupted manufacturing data and produces a
 signed-ready, plain-English audit narrative — operable by a compliance officer
 who has never opened a database.
 
-## Setup (5 minutes)
+## Setup 
 
 ### 1. Install backend
 ```bash
